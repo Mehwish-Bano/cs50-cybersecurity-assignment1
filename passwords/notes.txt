@@ -1,0 +1,10 @@
+Strong Password:
+A strong password should be long, unique, and contain letters, numbers, and symbols.
+
+Weak Password:
+123456, password, abc123 (easy to guess)
+
+Tips:
+- Use at least 8–12 characters
+- Avoid personal info
+- Use different passwords for each account

@@ -1,0 +1,9 @@
+Salting means adding extra data to a password before hashing.
+
+Example:
+Password: mypassword
+Salt: 123
+
+New password: mypassword123
+
+This makes it harder for hackers to guess the password.

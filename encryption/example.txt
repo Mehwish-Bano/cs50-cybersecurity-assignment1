@@ -1,0 +1,7 @@
+Encryption is the process of converting data into a secure form.
+
+Example:
+Original: Hello
+Encrypted: Khoor (simple shift example)
+
+Only someone with the key can convert it back to original.
